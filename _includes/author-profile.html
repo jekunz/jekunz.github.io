@@ -30,6 +30,9 @@
       {% if author.employer %}
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
+      {% if author.group %}
+        <li><a href="{{ author.group }}"><i class="fas fa-fw fa-users icon-pad-right" aria-hidden="true"></i>NLP group</a></li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
@@ -46,6 +49,9 @@
       {% endif %}      
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
+      {% endif %}
+      {% if author.aclanthology %}
+        <li><a href="{{ author.aclanthology }}"><i class="fas fa-fw fa-book icon-pad-right" aria-hidden="true"></i>ACL Anthology</a></li>
       {% endif %}
       {% if author.inspire-hep %}
         <li><a href="{{ author.inspire-hep }}"><i class="ai ai-inspire ai-fw icon-pad-right"></i>INSPIRE-HEP</a></li>

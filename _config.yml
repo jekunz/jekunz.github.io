@@ -30,12 +30,14 @@ author:
   location         : "Linköping"
   employer         : "Linköping University"
   uri              : # URL
+  group            : "https://liu-nlp.ai"
   email            : "jenny.kunz@liu.se" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=REGDuswAAAAJ&hl=sv"
+  aclanthology     : "https://aclanthology.org/people/jenny-kunz/"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0006-1001-0546"
