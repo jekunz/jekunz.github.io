@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Jenny Kunz"
 author_profile: true
 redirect_from: 
   - /about/
