@@ -29,6 +29,7 @@ author:
   bio              : "Postdoc in the NLP group at Linköping University"
   location         : "Linköping"
   employer         : "Linköping University"
+  employer_url     : "https://liu.se"
   uri              : # URL
   group            : "https://liu-nlp.ai"
   email            : "jenny.kunz@liu.se" 
