@@ -27,7 +27,7 @@ author:
   name             : "Jenny Kunz"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc in the NLP group at Linköping University"
-  location         : "Linköping"
+  location         : # e.g. "Linköping"
   employer         : "Linköping University"
   employer_url     : "https://liu.se"
   uri              : # URL
