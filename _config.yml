@@ -23,8 +23,8 @@ repository               : "jekunz/jekunz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "employee_image_kunje68.jpeg"
+  name             : "Jenny Kunz"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc in the NLP group at Linköping University"
   location         : "Linköping"
