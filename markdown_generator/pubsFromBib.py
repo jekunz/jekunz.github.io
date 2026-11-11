@@ -28,6 +28,14 @@ import re
 BIB_FILE = "../files/bibtex1.bib"
 MY_NAME = "Jenny Kunz"
 
+# Bib keys of papers to list under "Selected papers" on the front page
+SELECTED = {
+    "kunz-2026-preferences",
+    "oji-etal-2026-probing",
+    "kunz-2026-dialects",
+    "borggren-etal-2026-reading",
+}
+
 # Per entry type: which field holds the venue, and the category on the publications page
 ENTRY_TYPES = {
     "inproceedings": {"venuekey": "booktitle", "category": "conferences"},
@@ -80,6 +88,8 @@ for bib_id, entry in bibdata.entries.items():
         md += f"category: {etype['category']}\n"
         md += f"permalink: /publication/{html_filename}\n"
         md += f"date: {pub_date}\n"
+        if bib_id in SELECTED:
+            md += "selected: true\n"
         md += f"venue: '{yaml_escape(venue)}'\n"
         if "url" in b:
             md += f"paperurl: '{b['url']}'\n"
