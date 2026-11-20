@@ -30,6 +30,8 @@ MY_NAME = "Jenny Kunz"
 
 # Bib keys of papers to list under "Selected papers" on the front page
 SELECTED = {
+    "kukk-etal-2027-limits",
+    "kunz-etal-2027-family",
     "kunz-2026-preferences",
     "oji-etal-2026-probing",
     "kunz-2026-dialects",
