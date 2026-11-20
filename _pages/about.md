@@ -12,7 +12,7 @@ About me
 ======
 I am a postdoc in the [NLP group]({{ site.author.group }}) at [Linköping University]({{ site.author.employer_url }}), where I received [my PhD in Computer Science](https://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1848043&dswid=-787) in 2024. Before that, I studied Language Technology at Uppsala University and Computer Science at Humboldt University of Berlin.
 
-I am part of the academic team of [SELLMA](https://wasp-sweden.org/research/projects/sellma/), where I work on data for instruction tuning, alignment and evaluation. I also work in [STING](https://wasp-sweden.org/sting-synthesis-and-analysis-with-transducers-and-invertible-neural-generators/). Previously, I worked in the [TrustLLM](https://trustllm.eu) project, on the work package on multilinguality. 
+I am part of the science team of [SE.LLMA](https://wasp-sweden.org/research/projects/sellma/), where I work on data for instruction tuning, alignment and evaluation. I also work in [STING](https://wasp-sweden.org/sting-synthesis-and-analysis-with-transducers-and-invertible-neural-generators/). Previously, I worked in the [TrustLLM](https://trustllm.eu) project, on the work package on multilinguality. 
 
 Research interests
 ======
