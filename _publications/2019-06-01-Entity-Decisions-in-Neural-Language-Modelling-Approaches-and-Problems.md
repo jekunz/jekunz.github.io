@@ -8,5 +8,3 @@ venue: 'Proceedings of the Second Workshop on Computational Models of Reference,
 paperurl: 'https://aclanthology.org/W19-2803'
 citation: '<b>Jenny Kunz</b>, Christian Hardmeier. (2019). "Entity Decisions in Neural Language Modelling: Approaches and Problems." <i>Proceedings of the Second Workshop on Computational Models of Reference, Anaphora and Coreference</i>.'
 ---
-
-[Access paper here](https://aclanthology.org/W19-2803){:target="_blank"}

@@ -97,8 +97,6 @@ for bib_id, entry in bibdata.entries.items():
             md += f"paperurl: '{b['url']}'\n"
         md += f"citation: '{yaml_escape(citation)}'\n"
         md += "---\n"
-        if "url" in b:
-            md += f"\n[Access paper here]({b['url']}){{:target=\"_blank\"}}\n"
 
         with open(f"../_publications/{html_filename}.md", "w", encoding="utf-8") as f:
             f.write(md)

@@ -9,5 +9,3 @@ venue: 'Proceedings of the 2026 Conference on Empirical Methods in Natural Langu
 paperurl: 'https://aclanthology.org/2026.emnlp-industry.255/'
 citation: 'Lukas Borggren, <b>Jenny Kunz</b>, Marco Kuhlmann. (2026). "Reading the News: Adapting Large Language Models to Swedish Journalism Through Continued Pre-Training." <i>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing: Industry Track</i>.'
 ---
-
-[Access paper here](https://aclanthology.org/2026.emnlp-industry.255/){:target="_blank"}
